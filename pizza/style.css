@@ -1,0 +1,61 @@
+css
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5eee8;
+}
+
+.container {
+    width: 500px;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    color: #b94a2c;
+}
+
+form,
+.vysledek {
+    background-color: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    background-color: #b94a2c;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #943b23;
+}
+
+.vysledek {
+    line-height: 2;
+}
+
+.vysledek h2 {
+    color: #b94a2c;
+}
