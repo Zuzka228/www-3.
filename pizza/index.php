@@ -30,7 +30,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <div class="container">
 
-    <h1>🍕 Objednávka pizzy</h1>
+    <h1> Objednávka pizzy</h1>
 
     <form method="post">
 
